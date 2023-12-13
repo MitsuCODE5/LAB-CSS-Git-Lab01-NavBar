@@ -60,7 +60,6 @@
     font-size: 33px;
     font-weight: 600;
     gap: 3rem;
-    text-transform: capitalize;
 }
 
 .img-profile img{
@@ -73,6 +72,7 @@
     font-weight: 600;
     font-size: 2rem;
     text-align: left;
+    text-transform: capitalize;
 }
 
 .text-display .btn-more{
